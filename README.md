@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitry Kvashnin</h1>
+<h1 align="center">Hi 👋, I'm Dmitry Kvashnin :)</h1>
 <h3 align="center">A full-stack developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zonixx-it&label=Profile%20views&color=0e75b6&style=flat" alt="zonixx-it" /> </p>
